@@ -1,0 +1,4 @@
+app.controller("AlaskaCtrl", function($scope) {
+	$scope.highwayName = "Alaska Highway";
+	$scope.highwayDescription = "The Alaska Highway (also known as the Alaskan Highway, Alaska-Canadian Highway, or ALCAN Highway) was constructed during World War II for the purpose of connecting the contiguous United States to Alaska across Canada. It begins at the junction with several Canadian highways in Dawson Creek, British Columbia, and runs to Delta Junction, Alaska, via Whitehorse, Yukon. Completed in 1942 at a length of approximately 1,700 miles (2,700 km), as of 2012 it is 1,387 mi (2,232 km) long. The difference in distance is due to constant reconstruction of the highway, which has rerouted and straightened out numerous sections. The highway was opened to the public in 1948. Legendary over many decades for being a rough, challenging drive, the highway is now paved over its entire length.";
+});
